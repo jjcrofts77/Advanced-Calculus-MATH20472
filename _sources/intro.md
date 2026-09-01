@@ -1,7 +1,7 @@
 <!-- #region -->
 # Course Overview
 
-This Jupyterbook provides the course notes for the second year module Advanced Calculus (MATH20471).
+This Jupyterbook provides the course notes for the second year module Advanced Calculus (MATH20472).
 
 ## Part I - PDEs and Fourier Series
 
